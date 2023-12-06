@@ -1,4 +1,4 @@
-<h2>Human Tracking Robot</h2>
+<h1>Human Tracking Robot</h1>
 
 
 **Peterson Guo**
