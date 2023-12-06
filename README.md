@@ -1,4 +1,4 @@
-<h2>**Human Tracking Robot**</h2>
+<h2>Human Tracking Robot</h2>
 
 
 **Peterson Guo**
@@ -8,7 +8,7 @@ June 5, 2022
 <h2>Introduction</h2>
 
 
-In this project, an ultrasonic distance sensor and two ir sensors work with a robot that has two motors to follow a human. It also contains an LCD to display sensor readings, a button to cycle between the sensor data, and a potentiometer to adjust the contrast of the LCD. The IR sensors emit infrared radiation which will reflect off objects. The receiver will then be able to receive this reflected radiation and determine whether an object is in front of the robot. Two IR sensors are used on the left and right side of the robot to determine which direction the robot should turn. Ultrasonic sensors are also used in this project to gauge the distance between the human and the robot. IR sensors have a very limited range since infrared radiation has a short wavelength. Thus, the ultrasonic sensor can be used to maintain the perfect distance for the IR sensors to be within working range and for the robot to be out of the human’s walking space. This robot also takes advantage of two motors and a motor shield. The motor shield controls the motors of the robot and the motors will allow the robot to turn, move forward, and move backward.
+In this project, an ultrasonic distance sensor and two ir sensors work with a robot with two motors to follow a human. It also contains an LCD to display sensor readings, a button to cycle between the sensor data, and a potentiometer to adjust the contrast of the LCD. The IR sensors emit infrared radiation, which will reflect off objects. The receiver will then be able to receive this reflected radiation and determine whether an object is in front of the robot. Two IR sensors are used on the left and right sides of the robot to determine which direction the robot should turn. Ultrasonic sensors are also used in this project to gauge the distance between the human and the robot. IR sensors have a very limited range since infrared radiation has a short wavelength. Thus, the ultrasonic sensor can maintain the perfect distance for the IR sensors to be within working range and for the robot to be out of the human’s walking space. This robot also takes advantage of two motors and a motor shield. The motor shield controls the robot's motors, and the motors will allow the robot to turn, move forward, and move backward.
 
 <h2>Component List</h2>
 
@@ -194,13 +194,3 @@ In this project, an ultrasonic distance sensor and two ir sensors work with a ro
 
 
 ![alt_text](images/image4.png "image_tooltip")
-
-
-<h2>Photo of Finished Project</h2>
-
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-![alt_text](images/image2.png "image_tooltip")
