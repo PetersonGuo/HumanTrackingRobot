@@ -204,6 +204,3 @@ In this project, an ultrasonic distance sensor and two ir sensors work with a ro
 
 
 ![alt_text](images/image2.png "image_tooltip")
-
-
-![alt_text](images/image3.png "image_tooltip")
